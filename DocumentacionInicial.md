@@ -15,6 +15,8 @@ impresion de comprobante de asistencia a la charla o actividad
 
 //Inscripcion al congreso, esto para realizar la toma de huellas
 
+Se consumira una API provista por la universidad para los datos de los alumnos
+
 # 2. Herramientas y tecnologias
 ## Lenguaje de programacion
 
