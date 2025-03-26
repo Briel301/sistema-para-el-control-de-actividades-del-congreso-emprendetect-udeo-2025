@@ -1,7 +1,19 @@
 # 1. Introduccion del proyecto
 ## Descripcion del proyecto
 ## Objetivo
+Control de actividades, asistencia e inscripcion para alumnos.
 ## Alcance
+tomar asistencia
+
+inscribir en talleres
+
+El alumno debe poder ver sus asistencias a las actividades
+
+impresion de comprobante de asistencia a la charla o actividad
+
+/Reconocimiento facial o de huella
+
+//Inscripcion al congreso, esto para realizar la toma de huellas
 
 # 2. Herramientas y tecnologias
 ## Lenguaje de programacion
@@ -16,7 +28,10 @@ Visual studio
 #### Documentacion y control de versiones
 Github
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30"/>
+          
+          
 
 
 ## Respositorio
