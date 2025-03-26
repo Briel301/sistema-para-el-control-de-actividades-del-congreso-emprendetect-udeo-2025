@@ -1,5 +1,6 @@
 # 1. Introduccion del proyecto
-## Descripcion del proyecto
+## Descripcion del 
+
 ## Objetivo
 Control de actividades, asistencia e inscripcion para alumnos.
 ## Alcance
@@ -11,7 +12,7 @@ El alumno debe poder ver sus asistencias a las actividades
 
 impresion de comprobante de asistencia a la charla o actividad
 
-/Reconocimiento facial o de huella
+//Reconocimiento facial o de huella
 
 //Inscripcion al congreso, esto para realizar la toma de huellas
 
@@ -50,6 +51,7 @@ Github
 # 5. Roles y responsabilidades
 
 ## FrontEnd
+1.-Alan 
 ## BackEnd
 ## DB
 
