@@ -6,6 +6,8 @@ Control de actividades, asistencia e inscripcion para alumnos.
 ## Alcance
 tomar asistencia
 
+Generar reportes de asistencia filtrados por 
+curso, semestre y/o jornada
 inscribir en talleres
 
 El alumno debe poder ver sus asistencias a las actividades
@@ -51,11 +53,20 @@ Github
 # 5. Roles y responsabilidades
 
 ## FrontEnd
-1.-Alan 
-## BackEnd
-## DB
+Alan    -  Jefe
+Raulin  -  Ayudante1 - GIT
+Marcos  -  Ayudante2
+Randy   -  Ayudante3
 
-## QA?
+## BackEnd
+Vini - Jefe - GIT
+Angel - Ayudante1 - GIT
+
+## DB
+José - Jefe
+
+## QA
+Majo - Jefe - GIT
 
 # 6. Flujo de trabajo
 //Como se realizaran las metodologias y cuando seran las reuniones y duracion de los spints
