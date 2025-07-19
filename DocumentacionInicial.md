@@ -22,15 +22,15 @@ Se consumira una API provista por la universidad para los datos de los alumnos
 
 # 2. Herramientas y tecnologias
 ## Lenguaje de programacion
-
+C# .Net 9.0 
 ## Frameworks y librerias
+Entity Framework
 
 ## Herramientas de desarollo
-#### IDE
-Visual studio
+### IDE
+Visual studio 2022
 
-
-#### Documentacion y control de versiones
+### Documentacion y control de versiones
 Github
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30px"/>
