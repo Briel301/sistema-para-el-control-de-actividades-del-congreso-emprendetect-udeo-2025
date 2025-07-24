@@ -22,7 +22,7 @@ Se consumira una API provista por la universidad para los datos de los alumnos
 
 # 2. Herramientas y tecnologias
 ## Lenguaje de programacion
-C# .Net 9.0 
+C# .Net 8.0 
 ## Frameworks y librerias
 Entity Framework
 
