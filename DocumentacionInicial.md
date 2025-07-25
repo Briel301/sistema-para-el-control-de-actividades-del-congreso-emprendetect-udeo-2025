@@ -54,19 +54,25 @@ Github
 
 ## FrontEnd
 Alan    -  Jefe
+
 Raulin  -  Ayudante1 - GIT
+
 Marcos  -  Ayudante2
+
 Randy   -  Ayudante3
 
 ## BackEnd
 Vini - Jefe - GIT
+
 Angel - Ayudante1 - GIT
 
 ## DB
+
 José - Jefe
 
 ## QA
 Majo - Jefe - GIT
+Recinos - Ayudante 1
 
 # 6. Flujo de trabajo
 //Como se realizaran las metodologias y cuando seran las reuniones y duracion de los spints
